@@ -7,11 +7,15 @@
 🤖 AI Enthusiast
 
 ## Skills
+
 - Python
 - Java
-- C
+- C Programming
 - Git & GitHub
 - AI Tools
+- Data Analysis
+- Machine Learning (Learning)
+                                                                                                                              
 
 ## Projects
 ✅ Data Cleaning and Visualization
@@ -21,4 +25,5 @@
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/kirti-soni-52885b328?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
+E mail: xirtysoni1609@gmail.com
 ⭐ Open to internships and learning opportunities.
