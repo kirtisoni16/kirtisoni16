@@ -2,39 +2,70 @@
 
 🎓 B.Tech CSE (AI & ML) Student
 
-💻 Python Learner
+🌱 Currently Learning Python, Artificial Intelligence & Machine Learning
 
-🤖 AI Enthusiast
+💡 Passionate about Technology, AI Projects and Problem Solving
 
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🎯 Goal: Build Real-World AI Solutions and Grow as an AI Engineer
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## 🚀 Skills
 
-![AI](https://img.shields.io/badge/AI-Enthusiast-blue?style=for-the-badge)
+* Python
+* Java
+* C Programming
+* Git & GitHub
+* Data Analysis
+* Artificial Intelligence
+* Machine Learning (Learning)
 
-- Python
-- Java
-- C Programming
-- Git & GitHub
-- AI Tools
-- Data Analysis
-- Machine Learning (Learning)
-                                                                                                                              
+---
 
-## Projects
-✅ Data Cleaning and Visualization
+## 📂 Projects
 
-🚧 More AI & ML projects coming soon...
+### 📊 Data Cleaning and Visualization
 
-## Connect With Me
+This project demonstrates basic data cleaning and visualization using Python.
+
+#### Features
+
+* Handling Missing Values
+* Data Preprocessing
+* Data Cleaning using Pandas
+* Data Visualization using Matplotlib
+
+#### Technologies Used
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+🔗 Repository:
+https://github.com/kirtisoni16/data-cleaning-project
+
+---
+
+## 🌱 Currently Learning
+
+* Machine Learning
+* Data Science
+* GitHub
+* API Integration
+* AI Development
+
+---
+
+## 📫 Connect With Me
 
 💼 LinkedIn:
 https://www.linkedin.com/in/kirti-soni-52885b328
 
 📧 Email:
-xirtysoni1609@gmail.com
+[xirtysoni1609@gmail.com](mailto:xirtysoni1609@gmail.com)
 
-⭐ Open to internships and learning opportunities.
+---
+
+⭐ Open to internships, learning opportunities and AI-related projects.
+
