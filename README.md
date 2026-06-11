@@ -23,7 +23,11 @@
 🚧 More AI & ML projects coming soon...
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/kirti-soni-52885b328
 
-E mail: xirtysoni1609@gmail.com
+💼 LinkedIn:
+https://www.linkedin.com/in/kirti-soni-52885b328
+
+📧 Email:
+xirtysoni1609@gmail.com
+
 ⭐ Open to internships and learning opportunities.
