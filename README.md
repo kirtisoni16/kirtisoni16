@@ -7,6 +7,13 @@
 🤖 AI Enthusiast
 
 ## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+![AI](https://img.shields.io/badge/AI-Enthusiast-blue?style=for-the-badge)
 
 - Python
 - Java
