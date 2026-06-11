@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kirti Soni 👋
 
-<!--
-**kirtisoni16/kirtisoni16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+💻 Python Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI Enthusiast
+
+## Skills
+- Python
+- Java
+- C
+- Git & GitHub
+- AI Tools
+
+## Projects
+✅ Data Cleaning and Visualization
+
+🚧 More AI & ML projects coming soon...
+
+## Connect With Me
+LinkedIn: linkedin.com/in/kirti-soni-52885b328
+
+⭐ Open to internships and learning opportunities.
