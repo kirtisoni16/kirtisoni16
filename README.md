@@ -19,6 +19,6 @@
 🚧 More AI & ML projects coming soon...
 
 ## Connect With Me
-LinkedIn: linkedin.com/in/kirti-soni-52885b328
+LinkedIn: https://www.linkedin.com/in/kirti-soni-52885b328?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ⭐ Open to internships and learning opportunities.
